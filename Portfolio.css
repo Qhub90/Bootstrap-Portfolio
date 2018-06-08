@@ -1,0 +1,19 @@
+.navbar-brand{
+      padding: 5px;
+      margin: 15px;
+     /* I want the name to be max height of the navbar
+             height: 100%;  */
+      
+}
+
+
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    width: 100%;
+    height: 50px;
+    font-size: 26px;
+    padding: 10px;
+}
